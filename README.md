@@ -1,0 +1,1 @@
+This is my first project, which help me to learn simplest AI algorithm.
